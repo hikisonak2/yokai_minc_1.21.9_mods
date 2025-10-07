@@ -276,17 +276,6 @@
           }
         },
         {
-          "id": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
-          "name": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
-          "type": "File",
-          "artifact": {
-            "size": 251409,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/+1.21.3%20Fresh%20Moves%20v3.1.1%20(No%20Animated%20Eyes).zip",
-            "MD5": "00ff9fd86fc50a8859b5e5ef2e9cf1cc",
-            "path": "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip"
-          }
-        },
-        {
           "id": "Dramatic Skys Demo 1.5.3.36.1.zip",
           "name": "Dramatic Skys Demo 1.5.3.36.1.zip",
           "type": "File",
@@ -317,17 +306,6 @@
             "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/Invisible%20Armor%20Model%20-%2069.0.zip",
             "MD5": "6b3eaeb43c91073383c0c36fe6cf34ee",
             "path": "resourcepacks/Invisible Armor Model - 69.0.zip"
-          }
-        },
-        {
-          "id": "MB-3D Items Pack 2.0.0.zip",
-          "name": "MB-3D Items Pack 2.0.0.zip",
-          "type": "File",
-          "artifact": {
-            "size": 2348619,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/MB-3D%20Items%20Pack%202.0.0.zip",
-            "MD5": "a729d5da0a142073c289d8b8ea425e25",
-            "path": "resourcepacks/MB-3D Items Pack 2.0.0.zip"
           }
         },
         {
