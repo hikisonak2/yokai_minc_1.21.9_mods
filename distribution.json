@@ -276,17 +276,6 @@
           }
         },
         {
-          "id": "Better Lanterns v1.3 - 1.21.9.zip",
-          "name": "Better Lanterns v1.3 - 1.21.9.zip",
-          "type": "File",
-          "artifact": {
-            "size": 72518,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/Better%20Lanterns%20v1.3%20-%201.21.9.zip",
-            "MD5": "74091d612bee815af9c4f0c4a5f79bb4",
-            "path": "resourcepacks/Better Lanterns v1.3 - 1.21.9.zip"
-          }
-        },
-        {
           "id": "Dramatic Skys Demo 1.5.3.36.1.zip",
           "name": "Dramatic Skys Demo 1.5.3.36.1.zip",
           "type": "File",
