@@ -1,0 +1,358 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "YOKAI1.21.9-1.21.9",
+      "name": "YOKAI1.21.9 (Minecraft 1.21.9)",
+      "description": "요괴워치 1.21.9 바닐라 서버",
+      "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXHn_0cshEQS_CnBwtqCqsLB7T7uJo9NyoQ&s",
+      "version": "1.0.0",
+      "address": "158.180.70.118:7777",
+      "minecraftVersion": "1.21.9",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "마인크래프트 요괴워치 바닐라 서버",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.2",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1915305,
+            "MD5": "72dd698d701202d46303fc913cfcbf23",
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/net/fabricmc/fabric-loader/0.17.2/fabric-loader-0.17.2.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.9-fabric-0.17.2",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "1475bc02c971e406d1472b47132000e5",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/versions/1.21.9-fabric-0.17.2/1.21.9-fabric-0.17.2.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.3+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504156,
+                "MD5": "aa4a43d5b0e9abf4fcb57520ffeb0019",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.9",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 778632,
+                "MD5": "6fc47c24e7248ff74b50ab889b5b2524",
+                "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/repo/lib/net/fabricmc/intermediary/1.21.9/intermediary-1.21.9.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "squeek.appleskin:appleskin:3.0.7+mc1.21.9@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1094185,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/appleskin-fabric-mc1.21.9-3.0.7.jar",
+            "MD5": "bfe38a283ee7e6a0e64f1873d24968df"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:1.1.1@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 84981,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/chat_heads-1.1.1-fabric-1.21.9.jar",
+            "MD5": "d435281968f589f0d3b6a0c26c0235d4"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:20.0.148@jar",
+          "name": "Cloth Config v20",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1150269,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/cloth-config-20.0.148-fabric.jar",
+            "MD5": "d35406d2f8b642bf11090f0ebce3b250"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:3.0.3@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 473524,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/entity_model_features_1.21.9-fabric-3.0.3.jar",
+            "MD5": "0c941f15088c4345c57bba7475f2a4e0"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:7.0.3@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 697416,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/entity_texture_features_1.21.9-fabric-7.0.3.jar",
+            "MD5": "953c79f79bd78ff37a2edd73eba8ad35"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.134.0+1.21.9@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2290691,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/fabric-api-0.134.0+1.21.9.jar",
+            "MD5": "bbf106d1b7a6c93b2988c909cf93aea2"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.6+kotlin.2.2.20@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7479598,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/fabric-language-kotlin-1.13.6+kotlin.2.2.20.jar",
+            "MD5": "c1d19e5d8b325b55c11c767468005aa2"
+          }
+        },
+        {
+          "id": "dlovin.inventoryhud:inventoryhud:3.4.29@jar",
+          "name": "Inventory HUD +",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 225734,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/inventoryhud.fabric.1.21.9-3.4.29.jar",
+            "MD5": "bf64c189c5eea6404e0c03494e71db10"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.9.3+mc1.21.9@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2707422,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/iris-fabric-1.9.3+mc1.21.9.jar",
+            "MD5": "d29fb53ad4651f63f9588f86147d7c91"
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.0+mc1.21.9@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 636645,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.21.9.jar",
+            "MD5": "8a7f3b0beb636b55771f41827550fd52"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:16.0.0-rc.1@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1077403,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/modmenu-16.0.0-rc.1.jar",
+            "MD5": "74c349a72ddd8010f67b5cece9aed277"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:2.8.0+1.21.9@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 265145,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/placeholder-api-2.8.0+1.21.9.jar",
+            "MD5": "945489161a113ff043d1a8e9f4116311"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.7.0+mc1.21.9@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1649197,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/sodium-fabric-0.7.0+mc1.21.9.jar",
+            "MD5": "360f7cb8e82b4bedbfdbbb583e4e9e5f"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.15@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1695560,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/Xaeros_Minimap_25.2.15_Fabric_1.21.9.jar",
+            "MD5": "9c111acddf54739c9c41e64aba3dc0a3"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.0+1.21.9-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1126346,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/yet_another_config_lib_v3-3.8.0+1.21.9-fabric.jar",
+            "MD5": "88d9e2214bc8f4bd6aa23a0ba4c49ab0"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.14.6+1.21.9@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1869193,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/Zoomify-2.14.6+1.21.9.jar",
+            "MD5": "b18b8126f580e1a410114054e7ec1eb6"
+          }
+        },
+        {
+          "id": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
+          "name": "+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip",
+          "type": "File",
+          "artifact": {
+            "size": 251409,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/+1.21.3%20Fresh%20Moves%20v3.1.1%20(No%20Animated%20Eyes).zip",
+            "MD5": "00ff9fd86fc50a8859b5e5ef2e9cf1cc",
+            "path": "resourcepacks/+1.21.3 Fresh Moves v3.1.1 (No Animated Eyes).zip"
+          }
+        },
+        {
+          "id": "Dramatic Skys Demo 1.5.3.36.1.zip",
+          "name": "Dramatic Skys Demo 1.5.3.36.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11383498,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/Dramatic%20Skys%20Demo%201.5.3.36.1.zip",
+            "MD5": "da8bbbf19fc93dd8cbb8f91ef6269e5f",
+            "path": "resourcepacks/Dramatic Skys Demo 1.5.3.36.1.zip"
+          }
+        },
+        {
+          "id": "FreshAnimations_v1.10.1_아찐수정.zip",
+          "name": "FreshAnimations_v1.10.1_아찐수정.zip",
+          "type": "File",
+          "artifact": {
+            "size": 846053,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/FreshAnimations_v1.10.1_%EC%95%84%EC%B0%90%EC%88%98%EC%A0%95.zip",
+            "MD5": "e4a738b0faa951377ccace69f794d81b",
+            "path": "resourcepacks/FreshAnimations_v1.10.1_아찐수정.zip"
+          }
+        },
+        {
+          "id": "Invisible Armor Model - 69.0.zip",
+          "name": "Invisible Armor Model - 69.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3444,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/Invisible%20Armor%20Model%20-%2069.0.zip",
+            "MD5": "6b3eaeb43c91073383c0c36fe6cf34ee",
+            "path": "resourcepacks/Invisible Armor Model - 69.0.zip"
+          }
+        },
+        {
+          "id": "MB-3D Items Pack 2.0.0.zip",
+          "name": "MB-3D Items Pack 2.0.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2348619,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/MB-3D%20Items%20Pack%202.0.0.zip",
+            "MD5": "a729d5da0a142073c289d8b8ea425e25",
+            "path": "resourcepacks/MB-3D Items Pack 2.0.0.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.6.zip",
+          "name": "ComplementaryReimagined_r5.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500390,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/shaderpacks/ComplementaryReimagined_r5.6.zip",
+            "MD5": "57c5ad59950974aee32d9f1144c0a8f1",
+            "path": "shaderpacks/ComplementaryReimagined_r5.6.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.6.zip",
+          "name": "ComplementaryUnbound_r5.6.zip",
+          "type": "File",
+          "artifact": {
+            "size": 500393,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/shaderpacks/ComplementaryUnbound_r5.6.zip",
+            "MD5": "308fe42e792eaa2dc0974b9ffbb61777",
+            "path": "shaderpacks/ComplementaryUnbound_r5.6.zip"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/CHAN/%EB%A7%88%ED%81%AC%EB%B0%B1%EC%97%85/launcher/Mods/1.21.9/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "YOKAI1.21.9 (Minecraft 1.21.9)",
+    "description": "요괴워치 1.21.9 바닐라 서버",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQXHn_0cshEQS_CnBwtqCqsLB7T7uJo9NyoQ&s",
+    "address": "158.180.70.118:7777",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "마인크래프트 요괴워치 바닐라 서버",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.17.2"
+  },
+  "untrackedFiles": []
+}
