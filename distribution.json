@@ -196,13 +196,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.9.3+mc1.21.9@jar",
+          "id": "generated.fabricmod:iris:1.9.4+mc1.21.10@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2707422,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/iris-fabric-1.9.3+mc1.21.9.jar",
-            "MD5": "d29fb53ad4651f63f9588f86147d7c91"
+            "size": 2707924,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/iris-fabric-1.9.4+mc1.21.10.jar",
+            "MD5": "9e0472332d6187d2f3aef086e706169e"
           }
         },
         {
