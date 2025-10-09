@@ -156,13 +156,13 @@
           }
         },
         {
-          "id": "traben.entity_texture_features:entity_texture_features:7.0.3@jar",
+          "id": "traben.entity_texture_features:entity_texture_features:7.0.4@jar",
           "name": "Entity Texture Features",
           "type": "FabricMod",
           "artifact": {
-            "size": 697416,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/entity_texture_features_1.21.9-fabric-7.0.3.jar",
-            "MD5": "953c79f79bd78ff37a2edd73eba8ad35"
+            "size": 697956,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/entity_texture_features-7.0.4-1.21.9-fabric.jar",
+            "MD5": "feebfa1ecf80da3f136697a73ec007ea"
           }
         },
         {
@@ -273,6 +273,17 @@
             "size": 1869193,
             "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/Zoomify-2.14.6+1.21.9.jar",
             "MD5": "b18b8126f580e1a410114054e7ec1eb6"
+          }
+        },
+        {
+          "id": "Borderless Glass v1.0.1 - 1.21.9.zip",
+          "name": "Borderless Glass v1.0.1 - 1.21.9.zip",
+          "type": "File",
+          "artifact": {
+            "size": 20699,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/files/resourcepacks/Borderless%20Glass%20v1.0.1%20-%201.21.9.zip",
+            "MD5": "4e1f1fc2dcbb1f57311fd80249d2850d",
+            "path": "resourcepacks/Borderless Glass v1.0.1 - 1.21.9.zip"
           }
         },
         {
