@@ -196,13 +196,13 @@
           }
         },
         {
-          "id": "generated.fabricmod:iris:1.9.4+mc1.21.10@jar",
+          "id": "generated.fabricmod:iris:1.9.6+mc1.21.9@jar",
           "name": "Iris",
           "type": "FabricMod",
           "artifact": {
-            "size": 2707924,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/iris-fabric-1.9.4+mc1.21.10.jar",
-            "MD5": "9e0472332d6187d2f3aef086e706169e"
+            "size": 2708042,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/iris-fabric-1.9.6+mc1.21.9.jar",
+            "MD5": "d0695462e2d28cc581f87311614e2052"
           }
         },
         {
@@ -226,6 +226,16 @@
           }
         },
         {
+          "id": "dev.tr7zw:notenoughanimations:1.10.3.1@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 840511,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/notenoughanimations-fabric-1.10.3.1-mc1.21.10.jar",
+            "MD5": "a5ecd84e4fcf008510a2d0179c6fb22c"
+          }
+        },
+        {
           "id": "generated.fabricmod:placeholder-api:2.8.0+1.21.9@jar",
           "name": "Placeholder API",
           "type": "FabricMod",
@@ -236,13 +246,23 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:sodium:0.7.0+mc1.21.9@jar",
+          "id": "dev.tr7zw.skinlayers:skinlayers3d:1.9.1@jar",
+          "name": "3d-Skin-Layers",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 869223,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/skinlayers3d-fabric-1.9.1-mc1.21.10.jar",
+            "MD5": "08874296757100b787747dfe0918717b"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.7.2+mc1.21.10@jar",
           "name": "Sodium",
           "type": "FabricMod",
           "artifact": {
-            "size": 1649197,
-            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/sodium-fabric-0.7.0+mc1.21.9.jar",
-            "MD5": "360f7cb8e82b4bedbfdbbb583e4e9e5f"
+            "size": 1675639,
+            "url": "https://hikisonak2.github.io/yokai_minc_1.21.9_mods/servers/YOKAI1.21.9-1.21.9/fabricmods/required/sodium-fabric-0.7.2+mc1.21.10.jar",
+            "MD5": "76e0d7d1c910f58627b6e8bd6fd418da"
           }
         },
         {
